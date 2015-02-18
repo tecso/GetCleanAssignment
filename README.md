@@ -1,2 +1,4 @@
-# Get-Clean-Data-Programming-Assignment
-Coursera course on Getting and Cleaning Data
+# GetCleanAssignment
+Assignment from Getting and Cleaning Data (Coursera)
+
+
