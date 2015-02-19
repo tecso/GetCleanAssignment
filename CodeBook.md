@@ -27,8 +27,10 @@ _Describes each variable and its units._
 
 ## Input Data
 
-*Main dataset field names (561) from original files: X_test.txt (2947 records), X_train.txt (7352 records). The following list is located in features.txt; features_info.txt describes what each is in moore detail. *
+**Main dataset field names (561) from original files: X_test.txt (2947 records), X_train.txt (7352 records). The following list is located in features.txt; features_info.txt describes what each is in more detail.**
+
 _all values numeric between -1 and 1_
+
 ```
 1 tBodyAcc-mean()-X
 2 tBodyAcc-mean()-Y
@@ -593,21 +595,25 @@ _all values numeric between -1 and 1_
 561 angle(Z,gravityMean)
 ```
 
-*Dataset of Activity Code Labels from original files: y_test.txt (2947 records), y_train.txt (7352 records)*
+**Dataset of Activity Code Labels from original files: y_test.txt (2947 records), y_train.txt (7352 records)**
+
 _all values numeric integers_
 1 values 1-6, representing Activities from activity_labels.txt
 
-*Dataset of Subject Test Cases from original files: subject_test.txt (2947 records), subject_train.txt (7352 records)*
+**Dataset of Subject Test Cases from original files: subject_test.txt (2947 records), subject_train.txt (7352 records)**
+
 _all values numeric integers_
 1 values 1-24 in test, 1-30 in train
 
-*Inertial Signals*
+**Inertial Signals**
+
 Data files from Inertial Signals were also present for both test and train. These data were not used. 
 
 
 ## Output Data
 
-*tidyData.txt - a tab-delimited file*
+**tidyData.txt - a tab-delimited file**
+
 ```
 1	Subject
 	numeric
