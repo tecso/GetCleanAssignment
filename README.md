@@ -22,7 +22,7 @@ This project contains one script, `run_analysis.R`, which contains all functions
 1. Clone this repo
 2. Run the script:
 
-       $ Rscript run_analysis.R
+       $ Rscript run_analysis.R (shell only - to run from within RStudio use Source)
 
 3. Final data file is `output/tidyData.txt`
 
